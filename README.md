@@ -1,5 +1,4 @@
-Installation:
-
+Installation:<br>
 1. Click the Lakbayan HTML file
 <br>
 2. Click on the 3 dots spotted on the right side
