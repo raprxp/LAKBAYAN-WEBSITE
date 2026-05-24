@@ -7,7 +7,7 @@ Installation:
    <img width="1579" height="262" alt="image" src="https://github.com/user-attachments/assets/2affc701-21e6-4a8d-94cf-f7d8cb54da68" />
 
   For Mobile Phones:
-   <img width="427" height="720" alt="image" src="https://github.com/user-attachments/assets/b8f30e9c-40e1-410d-99f4-22b68f780c18" />
+  <img width="427" height="720" alt="image" src="https://github.com/user-attachments/assets/b8f30e9c-40e1-410d-99f4-22b68f780c18" />
 
   
 4. Click Download
